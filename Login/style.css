@@ -1,0 +1,98 @@
+div {
+    justify-content: center;
+    margin: auto;
+}
+
+.fundo {
+    background-color: #edefef;
+    width: 500px;
+    height: 700px;
+    align-content: center;
+}
+
+.login {
+    background-color: white;
+    width: 72%;
+    height: 57%;
+    border: 1px solid #97b9bf;
+    border-radius: 1.5%;
+    padding-right: 5%;
+    position: relative;
+}
+
+.resto {
+    padding-bottom: 20%;
+    padding-left: 5%;
+}
+
+h1 {
+    color: rgb(40, 110, 138);
+    text-align: center;
+    font-size: 250%;
+    margin-bottom: 10px;
+}
+
+hr {
+    border-top: 1px solid rgb(40, 110, 138);
+    height: 0;
+    margin-bottom: 20px;
+}
+
+body {
+    font-family: Arial;
+    
+}
+
+input {
+    padding: 2%;
+    width: 95%;
+    margin-top: 1.5%;
+    margin-bottom: 3%;
+}
+
+label {
+    color: rgb(40, 110, 138);
+}
+
+.checkbox {
+    padding: 0;
+    margin: 0;
+    border: 0;
+    width: 13px;
+    
+}
+
+button {
+    background-color: rgb(54, 147, 184);
+    color: white;
+    width: 100%;
+    padding: 2%;
+    font-size: 110%;
+    border: 0;
+}
+
+footer {
+    width: 100%;
+    height: 15%;
+    background-color: #e4effc;
+    bottom: 0;
+    position: absolute;
+    align-content: center;
+}
+
+.cadastro {
+    background-color: white;
+    color: rgb(54, 147, 184);
+    width: 30%;
+    padding: 1%;
+    font-size: medium;
+    font-weight: bold;
+    border: 1px solid rgb(108, 159, 179);
+    margin-left: 3%;
+}
+
+p {
+    text-align: end;
+    color: rgb(90, 90, 90);
+    padding-right: 6%;
+}
