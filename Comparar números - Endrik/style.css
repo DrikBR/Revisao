@@ -1,0 +1,12 @@
+body {
+    text-align: center;
+}
+
+p {
+    font-family: Arial;
+}
+
+input {
+    padding: 30px;
+    font-size: 16px;
+}
